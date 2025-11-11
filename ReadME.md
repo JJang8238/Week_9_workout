@@ -56,7 +56,7 @@ docker compose up --build -d
 
 ### ✅ AWS ECS 배포 결과
 - 퍼블릭 IP 접속 주소:  
-  **http://43.201.39.51:5000**
+  **http://13.124.235.237:5000/main**
 
 (→ 프로젝트에 맞는 포트 또는 배포된 public IP로 접속)
 
